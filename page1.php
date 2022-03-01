@@ -3,17 +3,17 @@
                  <title>การตกแต่งเว็บไซต์ด้วย CSS</title>
                  <style>
                          #box1{
-                                 width: 800px;
-                                 height: 350px;
+                                width: 800px;
+                                height: 350px;
                          }
                          .box{
-                                 background-color: blue;
+                                background-color: blue;
                          }
                          body{
-                                 background-color: lightpink;
+                                background-color: lightpink;
                          }
                          h1{
-                                 color: yellow;
+                                color: yellow;
                  </style>
       </head>
       <body>
