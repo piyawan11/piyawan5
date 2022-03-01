@@ -1,18 +1,18 @@
 <html>
-         <head>
-                 <title>การตกแต่งเว็บไซต์ด้วย CSS</title>
-                 <style>
-                         #box1{
+        <head>
+                <title>การตกแต่งเว็บไซต์ด้วย CSS</title>
+                <style>
+                        #box1{
                                 width: 800px;
                                 height: 350px;
-                         }
-                         .box{
+                        }
+                        .box{
                                 background-color: blue;
-                         }
-                         body{
+                        }
+                        body{
                                 background-color: lightpink;
-                         }
-                         h1{
+                        }
+                        h1{
                                 color: yellow;
                  </style>
       </head>
