@@ -1,14 +1,24 @@
 <html>
-  <head>
-    <title>page1</title>
-  </head>
-  <body bgcolor="lightblue">
-    <h1 style="color=darkblue;>ประวัติส่วนตัว</h1>
-               <p><b>ชื่อ:</b> <i>นางสาวปิยวรรณ เติมเสริม</i></p>
-               <p><b>ชื่อเล่น:</b> <i>เตย</i></p>
-               <p><b>ชั้น:</b> <i>ม.4/12</i></p>
-               <p><b>เลขที่:</b> <i>13</i></p>
-               <p><b>เลขประจำตัวนักเรียน:</b> <i>57034</i></p>
-               <p><b>โรงเรียน:</b> <i>หล่มสักวิทยาคม</i></p>
-  </body>
+         <head>
+                 <title>การตกแต่งเว็บไซต์ด้วย CSS</title>
+                 <style>
+                         #box1{
+                                 width: 800px;
+                                 height: 350px;
+                         }
+                         .box{
+                                 background-color: blue;
+                         }
+                         body{
+                                 background-color: lightpink;
+                         }
+                         h1{
+                                 color: yellow;
+                 </style>
+      </head>
+      <body>
+                 <div id="box1" class="box">
+                 <h1>นางสาวปิยวรรณ เติมเสริม ม.4/12 เลขที่ 13</h1>
+                 </div>
+      </body>
 </html>
